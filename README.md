@@ -1,4 +1,4 @@
-[![MasterHead](https://ximhai.com/img/programando.gif)]
+![MasterHead](https://ximhai.com/img/programando.gif)
 <h1 align="center">Hi 👋, I'm Lucas Eisenacht</h1>
 <h3 align="center">Soy fanatico de las computadoras</h3>
 <img align="right" alt"Coding" width="400" src="https://cdn.dribbble.com/users/68398/screenshots/2752563/media/ab949fe1eef4351517394d4734c62086.gif">
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/luukaroock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luukaroock" height="30" width="40" /></a>
+<a href="https://twitter.com/luukasroock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luukasroock" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lucas eisenacht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas eisenacht" height="30" width="40" /></a>
 <a href="https://fb.com/luukas roock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luukas roock" height="30" width="40" /></a>
 <a href="https://instagram.com/luukasroock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luukasroock" height="30" width="40" /></a>
